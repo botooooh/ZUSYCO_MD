@@ -17,7 +17,7 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "225151191073",
-  SUDO_NUMBERS : "94715166712,94719574492",
+  SUDO_NUMBERS : "94715166712,94719574492,225151191073",
   OWNER_NAME: "『 𝕴𝖛𝖆𝖓×͜× 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -32,10 +32,10 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '© ɢᴇɴᴇʀe par ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ 𝕴𝖛𝖆𝖓×͜× ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
